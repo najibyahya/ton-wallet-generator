@@ -1,4 +1,4 @@
-# Generate Wallet TON W5/V5R1 ( New Version )
+# TON Wallet Generator W5/V5R1 ( New Version )
 ![image](https://github.com/user-attachments/assets/cc7a9444-0ced-4dd7-a1c9-7fe183f64c25)
 
 ## Description
